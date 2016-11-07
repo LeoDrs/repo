@@ -8,7 +8,6 @@ h5. Tee moduli git-varastoon ja kirjoita raportti sinne MarkDownilla.
 
 Aluksi ajan komennot
 
-
 setxkbmap fi
 
 sudo apt-get update
@@ -80,5 +79,13 @@ git push
 
 Käyn seuraavaksi katsomassa miltä tämä tiedosto näyttää GitHubissa. Huomaan
 että rivivälien puute tekee tekstistä sekavaa luettavaa ja korjaan ne.
+Olen tyytyväinen lopputulokseen.
 
+## Lähteet
+
+http://terokarvinen.com/2016/aikataulu-palvelinten-hallinta-ict4tn022-1-5-op-uusi-ops-loppusyksy-2016#comment-21961
+
+http://terokarvinen.com/2016/publish-your-project-with-github
+
+https://leoluoto.wordpress.com/2016/11/06/palvelinten-hallinta-h4/
 
